@@ -75,7 +75,8 @@
 <br>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athroscf&theme=prussia&column=7" alt="athroscf" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=athroscf&theme=prussia&column=8" alt="athroscf" />
   </a>
 </p>
 
