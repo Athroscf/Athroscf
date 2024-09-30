@@ -29,40 +29,40 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px />
 </h2>
 
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=reactjs&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=reactjs&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=aws&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=aws&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=nextjs&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=nextjs&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=python&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=python&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=javascrip&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=javascrip&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=typescript&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=typescript&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=mongodb&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=mongodb&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=cypress&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=cypress&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=gatsby&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=gatsby&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=graphql&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=graphql&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=nodejs&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=nodejs&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' />
 </a>
-<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=redux&sort= >
+<a href="https://github.com/Athroscf?tab=repositories&q=&type=&language=redux&sort=" >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg' />
 </a>
 
