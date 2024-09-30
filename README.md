@@ -86,9 +86,9 @@
 
 <p align="center">
   <a href="https://github.com/Athroscf">
-    <img height="180em" href="https://github-readme-stats-eight-theta.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/Athroscf">
-    <img height="180em" href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
   </a>
 </p>
