@@ -28,6 +28,21 @@
 <a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=aws&sort= >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
 </a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=nextjs&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=python&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=javascrip&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=typescript&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=mongodb&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
+</a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
 
