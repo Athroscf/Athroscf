@@ -85,8 +85,12 @@
 </p>
 
 <p align="center">
-  <img height="180em" href="https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian" />
-  <img height="180em" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
+  <a href="https://github.com/Athroscf">
+    <img height="180em" href="https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian" />
+  </a>
+  <a href="https://github.com/Athroscf">
+    <img height="180em" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
+  </a>
 </p>
 
 | ![Athroscf's github stats](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian) | ![Athroscf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian) |
