@@ -3,7 +3,6 @@
 </p>
 
 ![Visits](https://img.shields.io/badge/Visits-12169-blue)
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Athroscf.Athroscf)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
