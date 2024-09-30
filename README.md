@@ -3,7 +3,7 @@
 </p>
 
 ![Visits](https://img.shields.io/badge/Visits-12169-blue)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/Athroscf?label=Follow&style=social)](https://github.com/Athroscf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
 
