@@ -69,7 +69,12 @@
 <a href = 'https://www.github.com/Athroscf'>
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
-  
+
+<br>
+<br>
+<br>
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Athroscf&theme=tokyonight)](https://git.io/praveenscience)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@athroscf)](https://github.com/athroscf/github-readme-stats)
