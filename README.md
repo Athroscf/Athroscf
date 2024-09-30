@@ -82,8 +82,8 @@
 <br>
 
 <h2>
-  Trofies
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+  Trophies
+  <img src = "https://media.giphy.com/media/aLLZP2AiOCsPLYgi7G/giphy.gif?cid=ecf05e47in3qpot5wk0p2xnnccig9dp87xys4kxxhtvpx5fu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px>
 </h2>
 
 <p align="left">
