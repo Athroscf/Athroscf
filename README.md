@@ -74,7 +74,9 @@
 <br>
 <br>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Athroscf&theme=tokyonight)](https://git.io/praveenscience)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
+| ![Athroscf's github stats](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=tokyonight) | ![Athroscf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf)](https://github.com/athroscf/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@athroscf)](https://github.com/athroscf/github-readme-stats)
