@@ -25,6 +25,9 @@
 <a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=reactjs&sort= >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 </a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=aws&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
+</a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
 
