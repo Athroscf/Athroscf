@@ -2,6 +2,7 @@
   <p align='center'>
 </p>
 
+![Visits](https://img.shields.io/badge/Visits-12169-blue)
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Athroscf.Athroscf)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
