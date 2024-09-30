@@ -43,6 +43,21 @@
 <a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=mongodb&sort= >
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 </a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=cypress&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=gatsby&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=graphql&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=nodejs&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+</a>
+<a href= https://github.com/Athroscf?tab=repositories&q=&type=&language=redux&sort= >
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
+</a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
 
