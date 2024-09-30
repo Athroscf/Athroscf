@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian" />
 </p>
 
 <p align="center">
