@@ -89,6 +89,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian&include_all=true&count_private=true" />
   </a>
   <a href="https://github.com/Athroscf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&layout=compact=theme=prussian" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&layout=compact&theme=prussian" />
   </a>
 </p>
