@@ -2,7 +2,7 @@
   <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Athroscf.Athroscf)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athroscf)](https://github.com/athroscf/github-readme-stats)
