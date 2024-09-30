@@ -80,6 +80,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" href="https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian" />
+  <img height="180em" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
+</p>
+
 | ![Athroscf's github stats](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian) | ![Athroscf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian) 
