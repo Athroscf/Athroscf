@@ -92,7 +92,3 @@
     <img height="180em" href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Athroscf&theme=prussian" />
   </a>
 </p>
-
-| ![Athroscf's github stats](https://github-readme-stats.vercel.app/api?username=Athroscf&show_icons=true&theme=prussian) | ![Athroscf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Athroscf&theme=prussian) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athroscf&theme=prussian) 
